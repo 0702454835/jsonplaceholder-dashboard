@@ -77,3 +77,12 @@ All data is read from and written to [JSONPlaceholder](https://jsonplaceholder.t
 | POST | `/posts` | Create a new post |
 | PUT | `/posts/:id` | Update an existing post |
 | DELETE | `/posts/:id` | Delete a post |
+Live Code Walkthrough
+
+Video demonstration (approximately 5 minutes):
+
+[Insert your public video link here]
+
+Repository
+
+https://github.com/0702454835/jsonplaceholder-dashboard
