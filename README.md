@@ -81,7 +81,7 @@ Live Code Walkthrough
 
 Video demonstration (approximately 5 minutes):
 
-[Insert your public video link here]
+https://drive.google.com/file/d/1mDD0vYMPC-mxIv4762hCMuPo6pfgxvmz/view?usp=sharing
 
 Repository
 
